@@ -1886,7 +1886,7 @@ var PDFViewerApplication = {
 };
 var validateFileURL = void 0;
 {
-  var HOSTED_VIEWER_ORIGINS = ['null', 'http://mozilla.github.io', 'https://mozilla.github.io'];
+  var HOSTED_VIEWER_ORIGINS = ['null', 'http://mozilla.github.io', 'https://mozilla.github.io', 'http://ktstestenv.kamaainatitle.com', 'https://link.kamaainatitle.com'];
   validateFileURL = function validateFileURL(file) {
     if (file === undefined) {
       return;
