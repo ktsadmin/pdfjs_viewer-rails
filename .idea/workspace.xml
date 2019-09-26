@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa289440-b2c9-4a15-ae78-7e26f87e2768" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/assets/javascripts/pdfjs_viewer/viewer.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/javascripts/pdfjs_viewer/viewer.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -92,7 +93,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569462993323</updated>
-      <workItem from="1569462994496" duration="451000" />
+      <workItem from="1569462994496" duration="801000" />
+      <workItem from="1569466110988" duration="15000" />
     </task>
     <servers />
   </component>
@@ -104,7 +106,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
